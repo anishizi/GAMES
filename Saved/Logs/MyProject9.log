@@ -1,0 +1,1402 @@
+﻿Log file open, 12/22/20 14:59:24
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: MyProject9
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.276022
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14830424
+LogInit: Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU:        Intel(R) Core(TM) i5-3570K CPU @ 3.40GHz, GPU: Intel(R) HD Graphics 4000
+LogInit: Compiled (64-bit): Dec  1 2020 15:13:26
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/hizi/Documents/Unreal Projects/MyProject9/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.22-13.59.25:372][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.22-13.59.25:372][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.22-13.59.25:372][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/hizi/Documents/Unreal Projects/MyProject9/Saved/Config/Windows/Engine.ini]
+[2020.12.22-13.59.25:372][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.22-13.59.25:372][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/hizi/Documents/Unreal Projects/MyProject9/Saved/Config/Windows/Engine.ini]
+[2020.12.22-13.59.25:372][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/hizi/Documents/Unreal Projects/MyProject9/Saved/Config/Windows/Engine.ini]
+[2020.12.22-13.59.25:372][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.22-13.59.25:372][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.22-13.59.25:372][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.22-13.59.25:372][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.22-13.59.25:372][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.22-13.59.25:372][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.22-13.59.25:372][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.22-13.59.25:372][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.22-13.59.25:372][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.22-13.59.25:372][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.22-13.59.25:372][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.22-13.59.25:372][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.22-13.59.25:372][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.22-13.59.25:372][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.12.22-13.59.25:372][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/hizi/Documents/Unreal Projects/MyProject9/Saved/Config/Windows/Engine.ini]
+[2020.12.22-13.59.25:372][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.22-13.59.25:372][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.22-13.59.25:372][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.22-13.59.25:372][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.22-13.59.25:373][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.22-13.59.25:373][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.22-13.59.25:373][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.12.22-13.59.25:373][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.22-13.59.25:373][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.22-13.59.25:373][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.22-13.59.25:373][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.22-13.59.25:373][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.22-13.59.25:373][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.22-13.59.25:373][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2020.12.22-13.59.25:373][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/hizi/Documents/Unreal Projects/MyProject9/Saved/Config/Windows/Engine.ini]
+[2020.12.22-13.59.25:373][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/hizi/Documents/Unreal Projects/MyProject9/Saved/Config/Windows/Engine.ini]
+[2020.12.22-13.59.25:380][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/hizi/Documents/Unreal Projects/MyProject9/Saved/Config/Windows/Scalability.ini]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/hizi/Documents/Unreal Projects/MyProject9/Saved/Config/Windows/Scalability.ini]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/hizi/Documents/Unreal Projects/MyProject9/Saved/Config/Windows/Scalability.ini]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/hizi/Documents/Unreal Projects/MyProject9/Saved/Config/Windows/Scalability.ini]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/hizi/Documents/Unreal Projects/MyProject9/Saved/Config/Windows/Scalability.ini]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.22-13.59.25:380][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/hizi/Documents/Unreal Projects/MyProject9/Saved/Config/Windows/Scalability.ini]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/hizi/Documents/Unreal Projects/MyProject9/Saved/Config/Windows/Scalability.ini]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/hizi/Documents/Unreal Projects/MyProject9/Saved/Config/Windows/Scalability.ini]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2020.12.22-13.59.25:381][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.22-13.59.25:381][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.22-13.59.25:381][  0]LogHAL: Display: Platform has ~ 8 GB [8477839360 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.22-13.59.25:381][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.22-13.59.25:381][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/hizi/Documents/Unreal Projects/MyProject9/Saved/Config/Windows/Scalability.ini]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/hizi/Documents/Unreal Projects/MyProject9/Saved/Config/Windows/Scalability.ini]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/hizi/Documents/Unreal Projects/MyProject9/Saved/Config/Windows/Scalability.ini]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.22-13.59.25:381][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/hizi/Documents/Unreal Projects/MyProject9/Saved/Config/Windows/Scalability.ini]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/hizi/Documents/Unreal Projects/MyProject9/Saved/Config/Windows/Scalability.ini]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/hizi/Documents/Unreal Projects/MyProject9/Saved/Config/Windows/Scalability.ini]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.22-13.59.25:382][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.22-13.59.25:383][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.22-13.59.25:383][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.22-13.59.25:383][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.22-13.59.25:383][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.22-13.59.25:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.22-13.59.25:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2020.12.22-13.59.25:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.22-13.59.25:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.22-13.59.25:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.22-13.59.25:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2020.12.22-13.59.25:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.22-13.59.25:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2020.12.22-13.59.25:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.22-13.59.25:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.22-13.59.25:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.22-13.59.25:383][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/hizi/Documents/Unreal Projects/MyProject9/Saved/Config/Windows/Scalability.ini]
+[2020.12.22-13.59.25:383][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.22-13.59.25:383][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.22-13.59.25:383][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/hizi/Documents/Unreal Projects/MyProject9/Saved/Config/Windows/Scalability.ini]
+[2020.12.22-13.59.25:383][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2020.12.22-13.59.25:383][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2020.12.22-13.59.25:383][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2020.12.22-13.59.25:383][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.22-13.59.25:383][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.22-13.59.25:383][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.22-13.59.25:383][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.12.22-13.59.25:383][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/hizi/Documents/Unreal Projects/MyProject9/Saved/Config/Windows/Engine.ini]
+[2020.12.22-13.59.25:383][  0]LogInit: Computer: DESKTOP-UTBIEGD
+[2020.12.22-13.59.25:383][  0]LogInit: User: hizi
+[2020.12.22-13.59.25:383][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.12.22-13.59.25:383][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.22-13.59.25:383][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.12.22-13.59.25:383][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.22-13.59.25:383][  0]LogMemory: Process Physical Memory: 132.59 MB used, 132.60 MB peak
+[2020.12.22-13.59.25:383][  0]LogMemory: Process Virtual Memory: 117.85 MB used, 117.85 MB peak
+[2020.12.22-13.59.25:383][  0]LogMemory: Physical Memory: 5231.07 MB used,  2854.02 MB free, 8085.10 MB total
+[2020.12.22-13.59.25:383][  0]LogMemory: Virtual Memory: 134213968.00 MB used,  3756.44 MB free, 134217728.00 MB total
+[2020.12.22-13.59.25:389][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.22-13.59.25:413][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.12.22-13.59.25:414][  0]LogInit: Using OS detected language (fr-FR).
+[2020.12.22-13.59.25:414][  0]LogInit: Using OS detected locale (fr-FR).
+[2020.12.22-13.59.25:418][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2020.12.22-13.59.25:419][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2020.12.22-13.59.25:419][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2020.12.22-13.59.25:419][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2020.12.22-13.59.25:419][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2020.12.22-13.59.25:419][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2020.12.22-13.59.25:419][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2020.12.22-13.59.25:419][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2020.12.22-13.59.25:420][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.22-13.59.25:429][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2020.12.22-13.59.25:450][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.22-13.59.25:450][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.22-13.59.25:608][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.22-13.59.25:608][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.12.22-13.59.25:608][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.12.22-13.59.25:608][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.22-13.59.25:612][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 4000' (Feature Level 11_0)
+[2020.12.22-13.59.25:612][  0]LogD3D11RHI:       32/0/1760 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.12.22-13.59.25:614][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.22-13.59.25:614][  0]LogD3D11RHI:       0/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.22-13.59.25:614][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.22-13.59.25:620][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.22-13.59.25:620][  0]LogD3D11RHI:     GPU DeviceId: 0x162 (for the marketing name, search the web for "GPU Device Id")
+[2020.12.22-13.59.25:620][  0]LogWindows: EnumDisplayDevices:
+[2020.12.22-13.59.25:620][  0]LogWindows:    0. 'Intel(R) HD Graphics 4000' (P:1 D:1)
+[2020.12.22-13.59.25:621][  0]LogWindows:    1. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2020.12.22-13.59.25:621][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2020.12.22-13.59.25:621][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 4000
+[2020.12.22-13.59.25:621][  0]LogD3D11RHI:   Driver Version: 10.18.10.4252 (internal:10.18.10.4252, unified:10.18.10.4252)
+[2020.12.22-13.59.25:621][  0]LogD3D11RHI:      Driver Date: 7-10-2015
+[2020.12.22-13.59.25:621][  0]LogRHI: Texture pool is 638 MB (70% of 912 MB)
+[2020.12.22-13.59.25:625][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.12.22-13.59.25:625][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.22-13.59.25:631][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2020.12.22-13.59.25:988][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.12.22-13.59.26:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.12.22-13.59.26:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.12.22-13.59.26:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.12.22-13.59.26:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.12.22-13.59.26:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.12.22-13.59.26:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.22-13.59.26:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.12.22-13.59.26:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.22-13.59.26:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.12.22-13.59.26:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.12.22-13.59.26:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.12.22-13.59.26:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.12.22-13.59.26:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.12.22-13.59.26:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.22-13.59.26:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.12.22-13.59.26:082][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.12.22-13.59.26:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.12.22-13.59.26:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.12.22-13.59.26:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.12.22-13.59.26:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.12.22-13.59.26:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.12.22-13.59.26:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2020.12.22-13.59.26:163][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2020.12.22-13.59.26:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2020.12.22-13.59.26:183][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2020.12.22-13.59.26:201][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.12.22-13.59.26:201][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.12.22-13.59.26:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.22-13.59.26:222][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.12.22-13.59.26:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.12.22-13.59.26:243][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.12.22-13.59.26:243][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.22-13.59.26:252][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.22-13.59.26:322][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2020.12.22-13.59.26:322][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Intermediate/Shaders/WorkingDirectory/7636/).
+[2020.12.22-13.59.26:322][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/hizi/AppData/Local/Temp/UnrealShaderWorkingDir/7A378CA24FA1F9F1E8F9E1AEA30F996F/'.
+[2020.12.22-13.59.26:322][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.22-13.59.26:322][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.22-13.59.27:187][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.22-13.59.27:259][  0]LogDerivedDataCache: Loaded boot cache 0.07s 77MB C:/Users/hizi/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2020.12.22-13.59.27:260][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/hizi/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2020.12.22-13.59.27:260][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.22-13.59.27:260][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.22-13.59.27:260][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.22-13.59.27:260][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.22-13.59.27:273][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.22-13.59.27:273][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.22-13.59.27:273][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.22-13.59.27:313][  0]LogDerivedDataCache: Speed tests for C:/Users/hizi/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
+[2020.12.22-13.59.27:313][  0]LogDerivedDataCache: Display: Performance to C:/Users/hizi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=243.86MBs, RandomWriteSpeed=26.17MBs. Assigned SpeedClass 'Local'
+[2020.12.22-13.59.27:314][  0]LogDerivedDataCache: Using Local data cache path C:/Users/hizi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.22-13.59.27:314][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.22-13.59.27:314][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.22-13.59.27:370][  0]LogSlate: Using FreeType 2.10.0
+[2020.12.22-13.59.27:371][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.22-13.59.27:398][  0]LogAssetRegistry: FAssetRegistry took 0.0033 seconds to start up
+[2020.12.22-13.59.27:682][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.22-13.59.27:682][  0]LogInit: Active device profile: [00000230D61CE200][00000230D438B7C0 49] Windows
+[2020.12.22-13.59.27:682][  0]LogInit: Profiles: [00000230D61CE200][00000230D438B7C0 49] Windows, [00000230D6146D00][00000230D438F900 49] WindowsNoEditor, [00000230D61CD100][00000230D43FFA80 49] WindowsServer, [00000230D6147D00][00000230D4403C00 49] WindowsClient, [00000230D61CC100][00000230D44160C0 49] IOS, [00000230D6144A00][00000230D441A240 49] iPadAir, [00000230D61CEF00][00000230D3D323C0 49] iPadAir2, [00000230D6062300][00000230D3D80680 49] IPadPro, [00000230D6062400][00000230D3D7C6C0 49] iPadAir3, [00000230D6145700][00000230D3D84840 49] iPadAir4, [00000230D6063C00][00000230D3D889C0 49] iPadMini2, [00000230D6144200][00000230D3D8CB40 49] iPadMini3, [00000230D6061500][00000230D3D90CC0 49] iPadMini4, [00000230D6145A00][00000230D3D94E40 49] iPadMini5, [00000230D606DB00][00000230D3D9D100 49] iPhone6, [00000230D606DC00][00000230D3D99140 49] iPodTouch6, [00000230D6061C00][00000230D3DA5400 49] iPhone7, [00000230D6061B00][00000230D3DA1440 49] iPodTouch7, [00000230D606F300][00000230D3DA95C0 49] iPhone5S, [00000230D6061F00][00000230D43F7700 49] iPhone6Plus, [00000230D606D700][00000230D3DAD840 49] iPhone6S, [00000230D6062B00][00000230D3DB1980 49] iPhone6SPlus, [00000230D606C700][00000230D3DB5AC0 49] iPhone7Plus, [00000230D6063100][00000230D3E37C40 49] iPhoneSE, [00000230D606EE00][00000230D3E3A100 49] iPhone8, [00000230D6060800][00000230D3E3E280 49] iPhone8Plus, [00000230D606D500][00000230D3E42400 49] iPhoneX, [00000230D6062700][00000230D3E46580 49] iPhoneXS, [00000230D606ED00][00000230D3E72700 49] iPhoneXSMax, [00000230D6062100][00000230D3E76880 49] iPhoneXR, [00000230D606CB00][00000230D3E7AA00 49] iPhone11, [00000230D6063600][00000230D3E7EB80 49] iPhone11Pro, [00000230D606FE00][00000230D3E9AD00 49] iPhone11ProMax, [00000230D6062900][00000230D3F02E80 49] iPhoneSE2, [00000230D606CA00][00000230D3F07000 49] iPhone12Mini, [00000230D6062C00][00000230D3F0B180 49] iPhone12, [00000230D606F100][00000230D3F0F300 49] iPhone12Pro, [00000230D61CCC00][00000230D3F13480 49] iPhone12ProMax, [00000230D606F700][00000230D3F17600 49] iPadPro105, [00000230D61CD000][00000230D3E33740 49] iPadPro129, [00000230D606E700][00000230D3F1B880 49] iPadPro97, [00000230D61CF000][00000230D3F1F9C0 49] iPadPro2_129, [00000230D606F800][00000230D3F2DB00 49] iPad5, [00000230D61CD300][00000230D3F35C80 49] iPad6, [00000230D606C100][00000230D3F3C140 49] iPad7, [00000230D61CE900][00000230D3F542C0 49] iPad8, [00000230D606EC00][00000230D3F60440 49] iPadPro11, [00000230D61CDB00][00000230D3F705C0 49] iPadPro2_11, [00000230D606EB00][00000230D3F78740 49] iPadPro3_129, [00000230D61CE000][00000230D3F7C8C0 49] iPadPro4_129, [00000230D606CC00][00000230D3F80A40 49] AppleTV, [00000230D61CD800][00000230D3F84BC0 49] AppleTV4K, [00000230D606DF00][00000230D3F88D40 49] TVOS, [00000230D61CF900][00000230D3F8CEC0 49] Mac, [00000230D606C200][00000230D3F91040 49] MacClient, [00000230D61CF100][00000230D3F951C0 49] MacNoEditor, [00000230D606C800][00000230D3F99340 49] MacServer, [00000230D61CFC00][00000230D3FC94C0 49] Linux, [00000230D606FD00][00000230D3FD1640 49] LinuxNoEditor, [00000230D61CCD00][00000230D3FD57C0 49] LinuxAArch64NoEditor, [00000230D606CD00][00000230D3F31900 49] LinuxClient, [00000230D61CED00][00000230D3FD9A40 49] LinuxAArch64Client, [00000230D606D400][00000230D3FDDB80 49] LinuxServer, [00000230D61CC200][00000230D3FE5D00 49] LinuxAArch64Server, [00000230D606D000][00000230D3FE81C0 49] Android, [00000230D61CDC00][00000230D3FEC340 49] Android_Low, [00000230D606D300][00000230D3FF04C0 49] Android_Mid, [00000230D61CE700][00000230D3FF4640 49] Android_High, [00000230D606C600][00000230D3FF87C0 49] Android_Default, [00000230D61CE500][00000230D3FFC940 49] Android_Adreno4xx, [00000230D606C400][00000230D4000AC0 49] Android_Adreno5xx_Low, [00000230D61CDD00][00000230D4004C40 49] Android_Adreno5xx, [00000230D606EA00][00000230D4008DC0 49] Android_Adreno6xx, [00000230D61CD900][00000230D400CF40 49] Android_Adreno6xx_Vulkan, [00000230D606CF00][00000230D38870C0 49] Android_Mali_T6xx, [00000230D61CE600][00000230D388B240 49] Android_Mali_T7xx, [00000230D606F400][00000230D388F3C0 49] Android_Mali_T8xx, [00000230D61CE100][00000230D3893540 49] Android_Mali_G71, [00000230D606E000][00000230D38976C0 49] Android_Mali_G72, [00000230D61CC600][00000230D389B840 49] Android_Mali_G72_Vulkan, [00000230D606E900][00000230D3FE1980 49] Android_Mali_G76, [00000230D61CCA00][00000230D389FAC0 49] Android_Mali_G76_Vulkan, [00000230D606E200][00000230D38A3C00 49] Android_Mali_G77, [00000230D6145500][00000230D38AA0C0 49] Android_Mali_G77_Vulkan, [00000230D6061000][00000230D3944240 49] Android_Vulkan_SM5, [00000230D6144B00][00000230D42143C0 49] Android_PowerVR_G6xxx, [00000230D6063500][00000230D4218540 49] Android_PowerVR_GT7xxx, [00000230D6146C00][00000230D421C6C0 49] Android_PowerVR_GE8xxx, [00000230D6063F00][00000230D4220840 49] Android_PowerVR_GM9xxx, [00000230D6146F00][00000230D42249C0 49] Android_PowerVR_GM9xxx_Vulkan, [00000230D6060200][00000230D4228B40 49] Android_TegraK1, [00000230D6146800][00000230D422CCC0 49] Android_Unknown_Vulkan, [00000230D6060E00][00000230D4230E40 49] Lumin, [00000230D6145800][00000230D4234FC0 49] Lumin_Desktop, [00000230D6061300][00000230D4239140 49] HoloLens, 
+[2020.12.22-13.59.27:813][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.22-13.59.27:813][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.22-13.59.27:813][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.22-13.59.27:813][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.22-13.59.27:813][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.22-13.59.27:833][  0]LogNetVersion: MyProject9 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 382122521)
+[2020.12.22-13.59.28:359][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2020.12.22-13.59.28:421][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.061839 seconds
+[2020.12.22-13.59.28:429][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2020.12.22-13.59.28:429][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2020.12.22-13.59.28:429][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.22-13.59.28:859][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.22-13.59.28:885][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.22-13.59.29:044][  0]SourceControl: Source control is disabled
+[2020.12.22-13.59.29:044][  0]SourceControl: Source control is disabled
+[2020.12.22-13.59.29:047][  0]SourceControl: Source control is disabled
+[2020.12.22-13.59.29:051][  0]SourceControl: Source control is disabled
+[2020.12.22-13.59.29:060][  0]SourceControl: Source control is disabled
+[2020.12.22-13.59.29:083][  0]LogUProjectInfo: Found projects:
+[2020.12.22-13.59.29:094][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.12.22-13.59.29:094][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.12.22-13.59.29:336][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.22-13.59.29:359][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.22-13.59.29:359][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.22-13.59.29:417][  0]LogCollectionManager: Loaded 0 collections in 0.002202 seconds
+[2020.12.22-13.59.29:444][  0]LogFileCache: Scanning file cache for directory 'C:/Users/hizi/Documents/Unreal Projects/MyProject9/Saved/Collections/' took 0.00s
+[2020.12.22-13.59.29:444][  0]LogFileCache: Scanning file cache for directory 'C:/Users/hizi/Documents/Unreal Projects/MyProject9/Content/Developers/hizi/Collections/' took 0.00s
+[2020.12.22-13.59.29:444][  0]LogFileCache: Scanning file cache for directory 'C:/Users/hizi/Documents/Unreal Projects/MyProject9/Content/Collections/' took 0.00s
+[2020.12.22-13.59.29:444][  0]LogOcInput: OculusInput pre-init called
+[2020.12.22-13.59.29:457][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.22-13.59.29:457][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.22-13.59.29:513][  0]LogEngine: Initializing Engine...
+[2020.12.22-13.59.29:514][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.22-13.59.29:514][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.12.22-13.59.29:515][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.12.22-13.59.29:644][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.22-13.59.29:654][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.22-13.59.29:683][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2020.12.22-13.59.29:687][  0]LogAudio: Display: Audio Device Manager Initialized
+[2020.12.22-13.59.29:687][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2020.12.22-13.59.29:687][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.22-13.59.29:687][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.22-13.59.29:687][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.22-13.59.29:687][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.22-13.59.29:688][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.22-13.59.29:688][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.22-13.59.29:688][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.22-13.59.29:688][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.22-13.59.29:688][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.22-13.59.29:688][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.22-13.59.29:703][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.22-13.59.29:703][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.22-13.59.29:727][  0]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2020.12.22-13.59.29:731][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.22-13.59.29:733][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.22-13.59.29:733][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.22-13.59.29:734][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.22-13.59.29:734][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2020.12.22-13.59.29:734][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2020.12.22-13.59.29:735][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2020.12.22-13.59.29:735][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2020.12.22-13.59.29:735][  0]LogInit: FAudioDevice initialized.
+[2020.12.22-13.59.29:735][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2020.12.22-13.59.29:736][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.22-13.59.29:974][  0]LogDerivedDataCache: Saved boot cache 0.24s 77MB C:/Users/hizi/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2020.12.22-13.59.29:979][  0]LogInit: Texture streaming: Enabled
+[2020.12.22-13.59.29:993][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2020.12.22-13.59.29:997][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.22-13.59.29:997][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.22-13.59.29:999][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.22-13.59.30:020][  0]LogInit: Transaction tracking system initialized
+[2020.12.22-13.59.30:044][  0]BlueprintLog: New page: Editor Load
+[2020.12.22-13.59.30:223][  0]LocalizationService: Localization service is disabled
+[2020.12.22-13.59.30:248][  0]TimingProfiler: Initialize
+[2020.12.22-13.59.30:249][  0]TimingProfiler: OnSessionChanged
+[2020.12.22-13.59.30:249][  0]LoadingProfiler: Initialize
+[2020.12.22-13.59.30:249][  0]LoadingProfiler: OnSessionChanged
+[2020.12.22-13.59.30:249][  0]NetworkingProfiler: Initialize
+[2020.12.22-13.59.30:249][  0]NetworkingProfiler: OnSessionChanged
+[2020.12.22-13.59.30:249][  0]MemoryProfiler: Initialize
+[2020.12.22-13.59.30:249][  0]MemoryProfiler: OnSessionChanged
+[2020.12.22-13.59.30:334][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.12.22-13.59.30:335][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.12.22-13.59.30:425][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2020.12.22-13.59.30:425][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.22-13.59.30:586][  0]LogFileCache: Scanning file cache for directory 'C:/Users/hizi/Documents/Unreal Projects/MyProject9/Content/' took 0.00s
+[2020.12.22-13.59.30:825][  0]SourceControl: Source control is disabled
+[2020.12.22-13.59.30:825][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.828
+[2020.12.22-13.59.30:827][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.26/FeaturePacks/MobileStarterContent.upack)
+[2020.12.22-13.59.30:827][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2020.12.22-13.59.30:827][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.22-13.59.30:827][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2020.12.22-13.59.30:831][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.12.22-13.59.30:837][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Architecture/Floor_400x400.uasset"
+[2020.12.22-13.59.30:842][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Architecture/Pillar_50x500.uasset"
+[2020.12.22-13.59.30:849][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Architecture/Wall_400x200.uasset"
+[2020.12.22-13.59.30:854][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Architecture/Wall_400x300.uasset"
+[2020.12.22-13.59.30:859][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Architecture/Wall_400x400.uasset"
+[2020.12.22-13.59.30:864][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Architecture/Wall_500x500.uasset"
+[2020.12.22-13.59.30:869][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.12.22-13.59.30:874][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.12.22-13.59.30:881][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.12.22-13.59.30:889][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.12.22-13.59.30:894][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Audio/Collapse01.uasset"
+[2020.12.22-13.59.30:899][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Audio/Collapse02.uasset"
+[2020.12.22-13.59.30:901][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Audio/Collapse_Cue.uasset"
+[2020.12.22-13.59.30:906][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Audio/Explosion01.uasset"
+[2020.12.22-13.59.30:911][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Audio/Explosion02.uasset"
+[2020.12.22-13.59.30:912][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Audio/Explosion_Cue.uasset"
+[2020.12.22-13.59.30:917][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Fire01.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Audio/Fire01.uasset"
+[2020.12.22-13.59.30:918][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Audio/Fire01_Cue.uasset"
+[2020.12.22-13.59.30:923][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Audio/Fire_Sparks01.uasset"
+[2020.12.22-13.59.30:924][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.12.22-13.59.30:929][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Light01.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Audio/Light01.uasset"
+[2020.12.22-13.59.30:930][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Audio/Light01_Cue.uasset"
+[2020.12.22-13.59.30:936][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Light02.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Audio/Light02.uasset"
+[2020.12.22-13.59.30:937][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Audio/Light02_Cue.uasset"
+[2020.12.22-13.59.30:942][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Audio/Smoke01.uasset"
+[2020.12.22-13.59.30:943][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Audio/Smoke01_Cue.uasset"
+[2020.12.22-13.59.30:948][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.12.22-13.59.30:955][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Audio/Starter_Birds01.uasset"
+[2020.12.22-13.59.30:964][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Audio/Starter_Music01.uasset"
+[2020.12.22-13.59.30:965][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.12.22-13.59.30:972][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Audio/Starter_Wind05.uasset"
+[2020.12.22-13.59.30:978][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Audio/Starter_Wind06.uasset"
+[2020.12.22-13.59.30:983][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Steam01.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Audio/Steam01.uasset"
+[2020.12.22-13.59.30:984][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Audio/Steam01_Cue.uasset"
+[2020.12.22-13.59.30:990][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.12.22-13.59.30:995][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.12.22-13.59.31:001][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.12.22-13.59.31:008][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.12.22-13.59.31:013][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.12.22-13.59.31:018][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.12.22-13.59.31:071][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Maps/Minimal_Default.umap"
+[2020.12.22-13.59.31:078][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.12.22-13.59.31:085][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Maps/StarterMap.umap" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Maps/StarterMap.umap"
+[2020.12.22-13.59.31:102][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.12.22-13.59.31:107][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Basic_Floor.uasset"
+[2020.12.22-13.59.31:112][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Basic_Wall.uasset"
+[2020.12.22-13.59.31:118][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.12.22-13.59.31:124][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.12.22-13.59.31:130][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.12.22-13.59.31:135][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.12.22-13.59.31:141][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.12.22-13.59.31:147][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.12.22-13.59.31:153][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.12.22-13.59.31:158][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.12.22-13.59.31:163][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.12.22-13.59.31:168][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.12.22-13.59.31:173][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.12.22-13.59.31:179][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.12.22-13.59.31:183][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.12.22-13.59.31:189][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Glass.uasset"
+[2020.12.22-13.59.31:195][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Ground_Grass.uasset"
+[2020.12.22-13.59.31:200][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.12.22-13.59.31:205][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Ground_Moss.uasset"
+[2020.12.22-13.59.31:210][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.12.22-13.59.31:239][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.12.22-13.59.31:244][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.12.22-13.59.31:249][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Metal_Copper.uasset"
+[2020.12.22-13.59.31:258][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Metal_Gold.uasset"
+[2020.12.22-13.59.31:264][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Metal_Rust.uasset"
+[2020.12.22-13.59.31:269][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Metal_Steel.uasset"
+[2020.12.22-13.59.31:275][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.12.22-13.59.31:282][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.12.22-13.59.31:288][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.12.22-13.59.31:293][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Rock_Slate.uasset"
+[2020.12.22-13.59.31:299][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.12.22-13.59.31:305][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.12.22-13.59.31:310][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.12.22-13.59.31:315][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Tech_Panel.uasset"
+[2020.12.22-13.59.31:367][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Water_Lake.uasset"
+[2020.12.22-13.59.31:372][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Water_Ocean.uasset"
+[2020.12.22-13.59.31:377][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.12.22-13.59.31:382][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.12.22-13.59.31:388][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Wood_Oak.uasset"
+[2020.12.22-13.59.31:396][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Wood_Pine.uasset"
+[2020.12.22-13.59.31:404][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.12.22-13.59.31:410][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.12.22-13.59.31:415][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Particles/P_Explosion.uasset"
+[2020.12.22-13.59.31:422][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Particles/P_Fire.uasset"
+[2020.12.22-13.59.31:427][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Particles/P_Smoke.uasset"
+[2020.12.22-13.59.31:432][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Particles/P_Sparks.uasset"
+[2020.12.22-13.59.31:438][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Particles/Materials/M_Burst.uasset"
+[2020.12.22-13.59.31:446][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.12.22-13.59.31:452][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.12.22-13.59.31:457][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2020.12.22-13.59.31:486][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.12.22-13.59.31:492][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2020.12.22-13.59.31:500][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.12.22-13.59.31:513][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2020.12.22-13.59.31:518][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Particles/Materials/M_Spark.uasset"
+[2020.12.22-13.59.31:526][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/MaterialSphere.uasset"
+[2020.12.22-13.59.31:537][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/SM_Bush.uasset"
+[2020.12.22-13.59.31:543][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/SM_Chair.uasset"
+[2020.12.22-13.59.31:550][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/SM_CornerFrame.uasset"
+[2020.12.22-13.59.31:556][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/SM_Couch.uasset"
+[2020.12.22-13.59.31:562][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Door.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/SM_Door.uasset"
+[2020.12.22-13.59.31:589][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/SM_DoorFrame.uasset"
+[2020.12.22-13.59.31:601][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/SM_GlassWindow.uasset"
+[2020.12.22-13.59.31:635][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.12.22-13.59.31:837][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.12.22-13.59.31:851][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.12.22-13.59.31:914][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/SM_PillarFrame.uasset"
+[2020.12.22-13.59.31:928][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/SM_PillarFrame300.uasset"
+[2020.12.22-13.59.31:973][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/SM_Rock.uasset"
+[2020.12.22-13.59.31:979][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/SM_Shelf.uasset"
+[2020.12.22-13.59.32:012][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/SM_Stairs.uasset"
+[2020.12.22-13.59.32:017][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/SM_Statue.uasset"
+[2020.12.22-13.59.32:024][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/SM_TableRound.uasset"
+[2020.12.22-13.59.32:030][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/SM_WindowFrame.uasset"
+[2020.12.22-13.59.32:035][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/Materials/M_Bush.uasset"
+[2020.12.22-13.59.32:041][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/Materials/M_Chair.uasset"
+[2020.12.22-13.59.32:047][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/Materials/M_Door.uasset"
+[2020.12.22-13.59.32:052][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/Materials/M_Frame.uasset"
+[2020.12.22-13.59.32:058][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/Materials/M_Lamp.uasset"
+[2020.12.22-13.59.32:063][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.12.22-13.59.32:069][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.12.22-13.59.32:074][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/Materials/M_Rock.uasset"
+[2020.12.22-13.59.32:079][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/Materials/M_Shelf.uasset"
+[2020.12.22-13.59.32:121][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/Materials/M_Statue.uasset"
+[2020.12.22-13.59.32:126][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.12.22-13.59.32:134][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Props/Materials/M_TableRound.uasset"
+[2020.12.22-13.59.32:141][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Shapes/Shape_Cone.uasset"
+[2020.12.22-13.59.32:146][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Shapes/Shape_Cube.uasset"
+[2020.12.22-13.59.32:271][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.12.22-13.59.32:276][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.12.22-13.59.32:281][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Shapes/Shape_Pipe.uasset"
+[2020.12.22-13.59.32:286][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.12.22-13.59.32:293][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.12.22-13.59.32:298][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Shapes/Shape_Plane.uasset"
+[2020.12.22-13.59.32:324][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.12.22-13.59.32:330][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Shapes/Shape_Sphere.uasset"
+[2020.12.22-13.59.32:335][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Shapes/Shape_Torus.uasset"
+[2020.12.22-13.59.32:341][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Shapes/Shape_Trim.uasset"
+[2020.12.22-13.59.32:346][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.12.22-13.59.32:354][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.12.22-13.59.32:360][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.12.22-13.59.32:365][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Shapes/Shape_Tube.uasset"
+[2020.12.22-13.59.32:371][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.12.22-13.59.32:377][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.12.22-13.59.32:382][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.12.22-13.59.32:389][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.12.22-13.59.32:396][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.12.22-13.59.32:404][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.12.22-13.59.32:411][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.12.22-13.59.32:418][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.12.22-13.59.32:425][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.12.22-13.59.32:437][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.12.22-13.59.32:444][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.12.22-13.59.32:452][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.12.22-13.59.32:472][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.12.22-13.59.32:489][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.12.22-13.59.32:499][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.12.22-13.59.32:506][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.12.22-13.59.32:514][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Burst_M.uasset"
+[2020.12.22-13.59.32:520][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Bush_D.uasset"
+[2020.12.22-13.59.32:526][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Bush_N.uasset"
+[2020.12.22-13.59.32:534][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.12.22-13.59.32:540][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.12.22-13.59.32:545][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Chair_M.uasset"
+[2020.12.22-13.59.32:562][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Chair_N.uasset"
+[2020.12.22-13.59.32:567][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.12.22-13.59.32:575][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.12.22-13.59.32:581][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.12.22-13.59.32:589][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.12.22-13.59.32:594][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.12.22-13.59.32:601][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.12.22-13.59.32:608][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.12.22-13.59.32:614][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.12.22-13.59.32:621][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.12.22-13.59.32:628][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.12.22-13.59.32:636][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.12.22-13.59.32:643][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.12.22-13.59.32:651][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.12.22-13.59.32:658][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.12.22-13.59.32:676][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.12.22-13.59.32:682][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.12.22-13.59.32:690][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.12.22-13.59.32:692][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.12.22-13.59.32:698][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.12.22-13.59.32:703][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Door_M.uasset"
+[2020.12.22-13.59.32:710][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Door_N.uasset"
+[2020.12.22-13.59.32:716][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.12.22-13.59.32:721][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.12.22-13.59.32:731][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Fire_SubUV.uasset"
+[2020.12.22-13.59.32:756][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2020.12.22-13.59.32:762][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Frame_M.uasset"
+[2020.12.22-13.59.32:768][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Frame_N.uasset"
+[2020.12.22-13.59.32:770][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Gradinet_01.uasset"
+[2020.12.22-13.59.32:777][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.12.22-13.59.32:784][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.12.22-13.59.32:793][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.12.22-13.59.32:800][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.12.22-13.59.32:808][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.12.22-13.59.32:815][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.12.22-13.59.32:828][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Lamp_M.uasset"
+[2020.12.22-13.59.32:844][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Lamp_N.uasset"
+[2020.12.22-13.59.32:858][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_MacroVariation.uasset"
+[2020.12.22-13.59.32:864][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.12.22-13.59.32:872][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.12.22-13.59.32:885][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.12.22-13.59.32:891][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.12.22-13.59.32:899][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.12.22-13.59.32:906][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.12.22-13.59.32:912][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.12.22-13.59.32:919][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.12.22-13.59.32:926][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.12.22-13.59.32:932][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_RockMesh_M.uasset"
+[2020.12.22-13.59.32:950][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_RockMesh_N.uasset"
+[2020.12.22-13.59.32:974][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.12.22-13.59.32:981][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.12.22-13.59.32:988][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.12.22-13.59.32:995][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.12.22-13.59.33:164][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.12.22-13.59.33:171][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.12.22-13.59.33:178][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.12.22-13.59.33:191][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.12.22-13.59.33:197][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Shelf_M.uasset"
+[2020.12.22-13.59.33:207][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Shelf_N.uasset"
+[2020.12.22-13.59.33:208][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.12.22-13.59.33:225][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Smoke_SubUV.uasset"
+[2020.12.22-13.59.33:232][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2020.12.22-13.59.33:239][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Spark_Core.uasset"
+[2020.12.22-13.59.33:245][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Statue_M.uasset"
+[2020.12.22-13.59.33:256][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Statue_N.uasset"
+[2020.12.22-13.59.33:263][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_TableRound_M.uasset"
+[2020.12.22-13.59.33:269][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_TableRound_N.uasset"
+[2020.12.22-13.59.33:274][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.12.22-13.59.33:298][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.12.22-13.59.33:304][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.12.22-13.59.33:310][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.12.22-13.59.33:316][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.12.22-13.59.33:322][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.12.22-13.59.33:328][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Water_M.uasset"
+[2020.12.22-13.59.33:438][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Water_N.uasset"
+[2020.12.22-13.59.33:445][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.12.22-13.59.33:556][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.12.22-13.59.33:562][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.12.22-13.59.33:569][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.12.22-13.59.33:576][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.12.22-13.59.33:585][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.12.22-13.59.33:592][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.12.22-13.59.33:599][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.12.22-13.59.33:605][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.12.22-13.59.33:677][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2020.12.22-13.59.34:061][  0]LogSavePackage: Moving '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Saved/Floor_400x400C02CF11E4E07B481FFC5FA82DD92369B.tmp' to '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/MobileStarterContent/Architecture/Floor_400x400.uasset'
+[2020.12.22-13.59.34:062][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2020.12.22-13.59.34:064][  0]Cmd: MAP LOAD FILE="../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.22-13.59.34:064][  0]LightingResults: New page: Lighting Build
+[2020.12.22-13.59.34:065][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.22-13.59.34:065][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.22-13.59.34:065][  0]MapCheck: New page: Map Check
+[2020.12.22-13.59.34:065][  0]LightingResults: New page: Lighting Build
+[2020.12.22-13.59.34:074][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.12.22-13.59.34:263][  0]LogTexture: Display: Building textures: DeprecatedTextureFA79271141B0C16E0AB806B8FE9AB1E1 (BGRA8, 128X128)
+[2020.12.22-13.59.34:286][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownExampleMap'.
+[2020.12.22-13.59.34:287][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.12.22-13.59.34:303][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.22-13.59.34:304][  0]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2020.12.22-13.59.34:314][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.12.22-13.59.34:315][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.22-13.59.34:315][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,348ms to complete.
+[2020.12.22-13.59.34:315][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.252
+[2020.12.22-13.59.34:318][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.321
+[2020.12.22-13.59.34:433][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.22-13.59.34:441][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.22-13.59.34:450][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.22-13.59.34:458][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.22-13.59.34:474][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0115 seconds. Added 3601 classes and 859 folders.
+[2020.12.22-13.59.34:480][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.22-13.59.34:481][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.22-13.59.34:481][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.22-13.59.34:481][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.22-13.59.34:481][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2020.12.22-13.59.34:482][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2020.12.22-13.59.34:482][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.22-13.59.34:482][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2020.12.22-13.59.34:482][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2020.12.22-13.59.34:483][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2020.12.22-13.59.34:483][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.22-13.59.34:483][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2020.12.22-13.59.34:483][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2020.12.22-13.59.34:483][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.22-13.59.34:483][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.22-13.59.34:483][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.22-13.59.34:483][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2020.12.22-13.59.34:484][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2020.12.22-13.59.34:484][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.22-13.59.34:484][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2020.12.22-13.59.34:484][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2020.12.22-13.59.34:485][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2020.12.22-13.59.34:485][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.22-13.59.34:485][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2020.12.22-13.59.34:485][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2020.12.22-13.59.34:485][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2020.12.22-13.59.34:485][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.22-13.59.34:485][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2020.12.22-13.59.34:485][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2020.12.22-13.59.34:486][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2020.12.22-13.59.34:486][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.22-13.59.34:486][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2020.12.22-13.59.34:486][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2020.12.22-13.59.34:487][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.22-13.59.34:487][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.22-13.59.34:487][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.22-13.59.34:487][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2020.12.22-13.59.34:487][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2020.12.22-13.59.34:487][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.22-13.59.34:487][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2020.12.22-13.59.34:487][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2020.12.22-13.59.34:488][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2020.12.22-13.59.34:488][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.22-13.59.34:488][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2020.12.22-13.59.34:488][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2020.12.22-13.59.34:489][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.22-13.59.34:489][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.22-13.59.34:489][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.22-13.59.34:489][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2020.12.22-13.59.34:489][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.22-13.59.34:489][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.22-13.59.34:489][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.22-13.59.34:489][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2020.12.22-13.59.34:490][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.22-13.59.34:490][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.22-13.59.34:490][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.22-13.59.34:490][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2020.12.22-13.59.34:491][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2020.12.22-13.59.34:491][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.22-13.59.34:491][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2020.12.22-13.59.34:491][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2020.12.22-13.59.34:491][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.22-13.59.34:491][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.22-13.59.34:491][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.22-13.59.34:491][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2020.12.22-13.59.34:492][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2020.12.22-13.59.34:492][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.22-13.59.34:492][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2020.12.22-13.59.34:492][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2020.12.22-13.59.34:492][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.22-13.59.34:492][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.22-13.59.34:492][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.22-13.59.34:493][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2020.12.22-13.59.34:493][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.22-13.59.34:493][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.22-13.59.34:493][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.22-13.59.34:493][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2020.12.22-13.59.34:494][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.22-13.59.34:494][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.22-13.59.34:494][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.22-13.59.34:494][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2020.12.22-13.59.34:494][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.22-13.59.34:495][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.22-13.59.34:495][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.22-13.59.34:495][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2020.12.22-13.59.34:495][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.22-13.59.34:495][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.22-13.59.34:495][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.22-13.59.34:495][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2020.12.22-13.59.34:496][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2020.12.22-13.59.34:496][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.22-13.59.34:496][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2020.12.22-13.59.34:496][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2020.12.22-13.59.34:497][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.22-13.59.34:497][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.22-13.59.34:497][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.22-13.59.34:497][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2020.12.22-13.59.34:498][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.22-13.59.34:498][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.22-13.59.34:498][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.22-13.59.34:498][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2020.12.22-13.59.34:499][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2020.12.22-13.59.34:499][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.22-13.59.34:499][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2020.12.22-13.59.34:499][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2020.12.22-13.59.34:547][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.22-13.59.34:548][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2020.12.22-13.59.34:582][  0]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.22-13.59.34:585][  0]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.22-13.59.34:590][  0]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.22-13.59.34:670][  0]LogRenderer: Reallocating scene render targets to support 628x536 Format 10 NumSamples 1 (Frame:1).
+[2020.12.22-13.59.35:479][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.22-13.59.35:554][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.22-13.59.35:554][  0]LogInput: Warning: Action SetDestination uses invalid key OculusGo_Left_Trigger_Click.
+[2020.12.22-13.59.35:554][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Back_Click.
+[2020.12.22-13.59.35:554][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2020.12.22-13.59.35:554][  0]LogLoad: (Engine Initialization) Total time: 11.56 seconds
+[2020.12.22-13.59.35:554][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.22-13.59.35:554][  0]LogInit: First time updating LLM stats...
+[2020.12.22-13.59.36:306][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2020.12.22-13.59.36:307][  0]LogContentValidation: Display: Validating StaticMesh /Game/MobileStarterContent/Architecture/Floor_400x400.Floor_400x400
+[2020.12.22-13.59.36:333][  0]LogAssetRegistry: Asset discovery search completed in 8.9361 seconds
+[2020.12.22-13.59.36:334][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2020.12.22-13.59.36:334][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.22-13.59.36:361][  0]LogSlate: Took 0.001322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.12.22-13.59.52:574][347]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.22-13.59.52:602][347]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode
+[2020.12.22-13.59.52:734][347]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2020.12.22-14.00.51:937][ 76]LogSlate: Window 'TopDownGameMode' being destroyed
+[2020.12.22-14.00.51:954][ 76]LogSlate: Window 'TopDownGameMode' being destroyed
+[2020.12.22-14.00.51:966][ 76]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.12.22-14.00.51:966][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.22-14.02.52:017][ 26]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.12.22-14.10.03:945][252]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2020.12.22-14.10.03:946][252]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.107
+[2020.12.22-14.10.03:947][252]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownGameMode] ([1] browsable assets)...
+[2020.12.22-14.10.03:947][252]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownGameMode]
+[2020.12.22-14.10.03:956][252]LogSavePackage: Moving '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Saved/TopDownGameMode_Auto184B457FD419A7C2E4869E6B497FB2508.tmp' to '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownGameMode_Auto1.uasset'
+[2020.12.22-14.10.03:958][252]LogFileHelpers: Auto-saving content packages took 0.011
+[2020.12.22-14.14.30:092][423]LogSlate: Window 'Project Settings' being destroyed
+[2020.12.22-14.14.30:104][423]LogSlate: Window 'Project Settings' being destroyed
+[2020.12.22-14.14.32:752][478]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownController.TopDownController
+[2020.12.22-14.14.33:536][478]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.22-14.14.40:223][746]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.22-14.16.22:844][207]LogSlate: Window 'TopDownController' being destroyed
+[2020.12.22-14.16.22:866][207]LogSlate: Window 'TopDownController' being destroyed
+[2020.12.22-14.16.22:885][207]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.12.22-14.16.22:885][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.22-14.16.28:457][268]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownController.TopDownController
+[2020.12.22-14.17.07:059][731]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.12.22-14.17.08:959][731]LogSlate: Window 'Save Content' being destroyed
+[2020.12.22-14.17.09:015][731]LogSavePackage: Moving '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Saved/TopDownController7436DBE549CE47AE69B9CA9D40B0AB5B.tmp' to '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/TopDownBP/Blueprints/TopDownController.uasset'
+[2020.12.22-14.17.09:025][731]LogSavePackage: Moving '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Saved/TopDownGameMode81E9FC6A4BE14B09CAFB9EAE317A68C7.tmp' to '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/TopDownBP/Blueprints/TopDownGameMode.uasset'
+[2020.12.22-14.17.09:058][732]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.22-14.17.09:058][732]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/TopDownController.TopDownController
+[2020.12.22-14.17.09:058][732]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode
+[2020.12.22-14.25.34:680][ 37]BlueprintLog: New page: Compile TopDownController
+[2020.12.22-14.25.34:734][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.12.22-14.25.34:771][ 37]LogSlate: Took 0.000545 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.12.22-14.25.36:250][ 80]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2020.12.22-14.25.36:292][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.12.22-14.25.37:672][ 80]LogSlate: Window 'Save Content' being destroyed
+[2020.12.22-14.25.37:713][ 80]LogSavePackage: Moving '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Saved/TopDownControllerB948EBDC43B9A46808C4EF8DAD18D60C.tmp' to '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/TopDownBP/Blueprints/TopDownController.uasset'
+[2020.12.22-14.25.37:740][ 81]AssetCheck: New page: Asset Save: TopDownController
+[2020.12.22-14.25.37:740][ 81]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/TopDownController.TopDownController
+[2020.12.22-14.26.37:937][324]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2020.12.22-14.26.37:981][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.12.22-14.27.48:179][190]LogEditorTransaction: Undo Delete current selection
+[2020.12.22-14.28.10:460][859]LogEditorTransaction: Undo Delete current selection
+[2020.12.22-14.28.12:459][970]LogEditorTransaction: Undo Delete current selection
+[2020.12.22-14.28.14:691][ 52]LogEditorTransaction: Redo Delete current selection
+[2020.12.22-14.28.16:081][117]LogEditorTransaction: Redo Delete current selection
+[2020.12.22-14.29.58:214][110]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.12.22-14.29.58:215][110]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.030
+[2020.12.22-14.29.58:216][110]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownController] ([2] browsable assets)...
+[2020.12.22-14.29.58:216][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownController]
+[2020.12.22-14.29.58:231][110]LogSavePackage: Moving '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Saved/TopDownController_Auto2BE659E094DAEDC217BC86DB8DAD1FB9D.tmp' to '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownController_Auto2.uasset'
+[2020.12.22-14.29.58:232][110]LogFileHelpers: Auto-saving content packages took 0.017
+[2020.12.22-14.37.37:968][741]BlueprintLog: New page: Compile TopDownController
+[2020.12.22-14.37.38:023][741]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.12.22-14.37.39:134][771]LogSavePackage: Moving '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Saved/TopDownController88BF49FC43A99EA8BC9F5B842E68587C.tmp' to '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/TopDownBP/Blueprints/TopDownController.uasset'
+[2020.12.22-14.37.39:145][771]AssetCheck: New page: Asset Save: TopDownController
+[2020.12.22-14.37.39:145][771]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/TopDownController.TopDownController
+[2020.12.22-14.37.40:259][802]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2020.12.22-14.37.40:301][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.12.22-14.39.04:760][563]LogSavePackage: Moving '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Saved/TopDownController0F4AC7684E485F3A5DD42EA0E81A156C.tmp' to '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/TopDownBP/Blueprints/TopDownController.uasset'
+[2020.12.22-14.39.04:775][563]AssetCheck: New page: Asset Save: TopDownController
+[2020.12.22-14.39.04:775][563]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/TopDownController.TopDownController
+[2020.12.22-14.39.07:154][628]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2020.12.22-14.39.07:194][628]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.12.22-15.38.27:568][556]LogSlate: Window 'TopDownController' being destroyed
+[2020.12.22-15.38.27:580][556]LogSlate: Window 'TopDownController' being destroyed
+[2020.12.22-15.38.27:589][556]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.12.22-15.38.27:589][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.22-15.38.31:795][623]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode
+[2020.12.22-15.38.35:584][718]LogSlate: Window 'TopDownGameMode' being destroyed
+[2020.12.22-15.38.35:597][718]LogSlate: Window 'TopDownGameMode' being destroyed
+[2020.12.22-15.38.35:605][718]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.12.22-15.38.35:605][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.22-15.38.42:422][ 54]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.12.22-15.42.05:020][249]LogSlate: Window 'Project Settings' being destroyed
+[2020.12.22-15.42.05:027][249]LogSlate: Window 'Project Settings' being destroyed
+[2020.12.22-15.42.07:093][281]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode
+[2020.12.22-15.42.09:008][317]LogSlate: Window 'TopDownGameMode' being destroyed
+[2020.12.22-15.42.09:030][317]LogSlate: Window 'TopDownGameMode' being destroyed
+[2020.12.22-15.42.09:042][317]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.12.22-15.42.09:042][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.22-15.42.12:586][521]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.12.22-15.45.28:275][915]LogSlate: Window 'Project Settings' being destroyed
+[2020.12.22-15.45.28:289][915]LogSlate: Window 'Project Settings' being destroyed
+[2020.12.22-15.45.32:546][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.12.22-15.45.32:588][ 40]LogSavePackage: Moving '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Saved/TopDownExampleMap0D547DD142AF11D350EB14888EF5A082.tmp' to '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.12.22-15.45.32:764][ 40]LogSavePackage: Moving '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Saved/TopDownExampleMap_BuiltData11719BEC4ED55CAF06B137BB66696C7D.tmp' to '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2020.12.22-15.45.32:777][ 40]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.22-15.45.32:777][ 40]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2020.12.22-15.45.32:777][ 40]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.12.22-15.45.40:038][603]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2020.12.22-15.45.40:076][603]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.12.22-15.46.13:116][763]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownController.TopDownController
+[2020.12.22-15.47.08:407][218]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2020.12.22-15.47.08:448][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.12.22-15.48.02:584][649]LogSlate: Window 'TopDownController' being destroyed
+[2020.12.22-15.48.02:611][649]LogSlate: Window 'TopDownController' being destroyed
+[2020.12.22-15.48.02:620][649]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.12.22-15.48.02:620][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.22-15.48.07:699][ 34]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.12.22-15.48.26:696][906]LogSlate: Window 'Project Settings' being destroyed
+[2020.12.22-15.48.26:705][906]LogSlate: Window 'Project Settings' being destroyed
+[2020.12.22-15.48.30:420][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.12.22-15.48.30:452][ 17]LogSavePackage: Moving '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Saved/TopDownExampleMapA1AB3D8243DCCCABC94C34AF77C7458B.tmp' to '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.12.22-15.48.30:567][ 17]LogSavePackage: Moving '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Saved/TopDownExampleMap_BuiltDataB9B709474D009B2AE5696A886803A4FD.tmp' to '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2020.12.22-15.48.30:578][ 17]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.22-15.48.30:578][ 17]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2020.12.22-15.48.30:578][ 17]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.12.22-15.48.32:834][158]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2020.12.22-15.48.32:868][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.12.22-15.49.17:238][420]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TopDownBP/Blueprints/M_Cursor_Decal.M_Cursor_Decal
+[2020.12.22-15.49.17:295][420]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MaterialEditor' in 0.0006 seconds. Added 3 classes and 0 folders.
+[2020.12.22-15.49.17:321][420]LogMaterial: Display: Missing cached shader map for material M_Cursor_Decal, compiling. 
+[2020.12.22-15.49.18:208][420]LogMaterial: Display: Missing cached shader map for material M_Cursor_Decal, compiling. 
+[2020.12.22-15.49.18:247][420]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2020.12.22-15.49.18:247][420]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2020.12.22-15.49.18:247][420]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2020.12.22-15.49.19:764][431]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2020.12.22-15.49.21:164][453]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2020.12.22-15.49.21:886][465]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2020.12.22-15.49.22:757][478]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2020.12.22-15.49.24:477][503]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2020.12.22-15.49.25:218][545]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.12.22-15.49.26:042][558]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.12.22-15.49.26:150][560]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2020.12.22-15.49.27:441][581]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.12.22-15.49.28:117][592]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.12.22-15.49.28:228][595]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2020.12.22-15.49.29:274][653]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2020.12.22-15.49.30:439][716]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.12.22-15.49.31:000][730]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.12.22-15.49.33:075][763]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2020.12.22-15.49.33:437][769]LogSlate: Window 'M_Cursor_Decal' being destroyed
+[2020.12.22-15.49.33:467][769]LogSlate: Window 'M_Cursor_Decal' being destroyed
+[2020.12.22-15.49.34:074][769]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2020.12.22-15.49.34:074][769]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2020.12.22-15.49.34:074][769]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.12.22-15.49.34:093][769]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.12.22-15.49.34:093][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.22-15.49.34:172][770]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.12.22-15.49.35:025][778]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.12.22-15.49.35:468][784]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.12.22-15.49.36:669][792]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2020.12.22-15.49.43:987][792]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.22-15.49.47:348][850]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.22-15.49.49:434][904]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2020.12.22-15.49.51:577][963]Cmd: DELETE
+[2020.12.22-15.49.51:578][963]Cmd: ACTOR DELETE
+[2020.12.22-15.49.51:602][963]LogEditorActor: Deleted Actor: TextRenderActor
+[2020.12.22-15.49.51:700][963]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.12.22-15.49.51:703][963]LogEditorActor: Deleted 1 Actors (0.125 secs)
+[2020.12.22-15.49.57:232][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.22-15.50.36:218][167]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2020.12.22-15.50.55:092][932]LogSlate: Window 'TopDownCharacter' being destroyed
+[2020.12.22-15.50.55:119][932]LogSlate: Window 'TopDownCharacter' being destroyed
+[2020.12.22-15.50.55:129][932]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.12.22-15.50.55:129][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.22-15.51.06:424][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.22-15.51.22:575][641]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2020.12.22-15.51.30:611][870]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.12.22-15.51.37:751][ 73]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.12.22-15.51.38:523][ 95]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.12.22-15.52.19:882][119]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2020.12.22-15.52.56:205][207]LogRenderer: Reallocating scene render targets to support 920x664 Format 10 NumSamples 1 (Frame:1).
+[2020.12.22-15.53.03:466][324]LogSlate: Window 'TopDownCharacter' being destroyed
+[2020.12.22-15.53.03:493][324]LogSlate: Window 'TopDownCharacter' being destroyed
+[2020.12.22-15.53.03:504][324]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.12.22-15.53.03:504][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.22-15.53.05:201][342]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TopDownBP/Blueprints/M_Cursor_Decal.M_Cursor_Decal
+[2020.12.22-15.53.05:204][342]LogMaterial: Display: Missing cached shader map for material M_Cursor_Decal, compiling. 
+[2020.12.22-15.53.05:221][342]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2020.12.22-15.53.05:221][342]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2020.12.22-15.53.05:221][342]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2020.12.22-15.53.05:375][342]LogMaterial: Display: Missing cached shader map for material M_Cursor_Decal, compiling. 
+[2020.12.22-15.53.05:392][342]LogMaterial: Display: Missing cached shader map for material M_Cursor_Decal, compiling. 
+[2020.12.22-15.53.07:299][366]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2020.12.22-15.53.08:057][385]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2020.12.22-15.53.09:262][438]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2020.12.22-15.53.09:581][453]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2020.12.22-15.53.09:754][461]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2020.12.22-15.53.10:983][516]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2020.12.22-15.53.12:385][580]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2020.12.22-15.53.13:235][620]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2020.12.22-15.53.13:277][622]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.12.22-15.53.14:369][671]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.12.22-15.53.15:332][713]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2020.12.22-15.53.16:545][765]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.12.22-15.53.17:040][788]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.12.22-15.53.17:105][791]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2020.12.22-15.53.18:076][835]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.12.22-15.53.19:241][886]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.12.22-15.53.19:681][905]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.12.22-15.53.21:917][976]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.12.22-15.53.22:371][982]LogSlate: Window 'M_Cursor_Decal' being destroyed
+[2020.12.22-15.53.22:412][982]LogSlate: Window 'M_Cursor_Decal' being destroyed
+[2020.12.22-15.53.22:556][982]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2020.12.22-15.53.22:574][982]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.12.22-15.53.22:574][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.22-15.53.22:715][986]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.12.22-15.53.24:135][  1]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.12.22-15.53.24:719][  6]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.12.22-15.53.24:992][  8]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.12.22-15.53.25:487][ 12]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.12.22-15.53.27:117][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.12.22-15.53.35:584][ 24]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.22-15.53.40:333][ 71]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownController.TopDownController
+[2020.12.22-15.53.53:091][369]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2020.12.22-15.53.53:131][369]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.12.22-15.53.56:741][369]LogSlate: Window 'Save Content' being destroyed
+[2020.12.22-15.53.56:792][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.12.22-15.53.56:823][369]LogSavePackage: Moving '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Saved/TopDownExampleMapCB923A3044DD89A7825B04B92C64FFCE.tmp' to '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.12.22-15.53.56:839][369]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.071
+[2020.12.22-15.53.56:873][370]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2020.12.22-15.53.56:873][370]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.12.22-15.55.08:286][731]LogSlate: Window 'TopDownController' being destroyed
+[2020.12.22-15.55.08:310][731]LogSlate: Window 'TopDownController' being destroyed
+[2020.12.22-15.55.08:318][731]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.12.22-15.55.08:318][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.22-15.55.13:174][792]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode
+[2020.12.22-15.55.31:971][219]LogSlate: Window 'TopDownGameMode' being destroyed
+[2020.12.22-15.55.31:986][219]LogSlate: Window 'TopDownGameMode' being destroyed
+[2020.12.22-15.55.31:994][219]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.12.22-15.55.31:994][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.22-15.55.35:247][257]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2020.12.22-15.55.47:927][573]LogSlate: Window 'TopDownCharacter' being destroyed
+[2020.12.22-15.55.47:942][573]LogSlate: Window 'TopDownCharacter' being destroyed
+[2020.12.22-15.55.47:953][573]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.12.22-15.55.47:953][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.22-15.55.51:253][611]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownController.TopDownController
+[2020.12.22-15.56.01:953][968]LogSlate: Window 'TopDownController' being destroyed
+[2020.12.22-15.56.01:962][968]LogSlate: Window 'TopDownController' being destroyed
+[2020.12.22-15.56.01:974][968]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.12.22-15.56.01:974][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.22-15.56.06:768][155]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.12.22-15.56.52:456][200]LogSlate: Window 'Project Settings' being destroyed
+[2020.12.22-15.56.52:462][200]LogSlate: Window 'Project Settings' being destroyed
+[2020.12.22-15.56.54:075][243]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.12.22-15.56.54:107][243]LogSavePackage: Moving '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Saved/TopDownExampleMapB6CF7838461906D323B2048ABCA566FE.tmp' to '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.12.22-15.56.54:222][243]LogSavePackage: Moving '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Saved/TopDownExampleMap_BuiltDataD85B00BE4F546B74C358BEBBEDFFBE1C.tmp' to '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2020.12.22-15.56.54:235][243]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.22-15.56.54:235][243]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2020.12.22-15.56.54:235][243]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.12.22-15.57.01:172][711]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2020.12.22-15.57.01:208][711]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.12.22-15.57.22:953][972]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.12.22-15.57.29:050][114]LogSlate: Window 'Project Settings' being destroyed
+[2020.12.22-15.57.29:059][114]LogSlate: Window 'Project Settings' being destroyed
+[2020.12.22-15.58.26:954][656]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2020.12.22-15.58.39:982][123]Cmd: TRANSACTION UNDO
+[2020.12.22-15.58.39:982][123]LogEditorTransaction: Undo Move Actors
+[2020.12.22-15.58.42:147][301]Cmd: TRANSACTION UNDO
+[2020.12.22-15.58.42:147][301]LogEditorTransaction: Undo Move Actors
+[2020.12.22-15.59.26:677][468]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2020.12.22-16.01.48:073][990]LogEditorTransaction: Undo Delete current selection
+[2020.12.22-16.01.50:309][ 63]BlueprintLog: New page: Compile TopDownCharacter
+[2020.12.22-16.01.50:375][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.12.22-16.01.58:387][247]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2020.12.22-16.01.58:428][247]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.12.22-16.02.01:301][247]LogSlate: Window 'Save Content' being destroyed
+[2020.12.22-16.02.01:448][247]LogSavePackage: Moving '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Saved/TopDownCharacterE86E785A409D83914634CF921EF88482.tmp' to '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2020.12.22-16.02.01:474][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.12.22-16.02.01:504][247]LogSavePackage: Moving '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Saved/TopDownExampleMapA9D9F62A4ADFE31081AC71A8E858F984.tmp' to '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.12.22-16.02.01:526][247]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.077
+[2020.12.22-16.02.01:558][248]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.22-16.02.01:558][248]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2020.12.22-16.02.01:559][248]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.12.22-16.03.33:765][150]LogSlate: Window 'TopDownCharacter' being destroyed
+[2020.12.22-16.03.33:784][150]LogSlate: Window 'TopDownCharacter' being destroyed
+[2020.12.22-16.03.33:795][150]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.12.22-16.03.33:795][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.22-16.03.40:106][212]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownController.TopDownController
+[2020.12.22-16.04.43:401][966]LogSavePackage: Moving '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Saved/TopDownControllerA5F702674DF0DF9CF61FC89CCE99271B.tmp' to '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/TopDownBP/Blueprints/TopDownController.uasset'
+[2020.12.22-16.04.43:415][966]AssetCheck: New page: Asset Save: TopDownController
+[2020.12.22-16.04.43:415][966]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/TopDownController.TopDownController
+[2020.12.22-16.04.44:584][  0]BlueprintLog: New page: Compile TopDownController
+[2020.12.22-16.04.44:634][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.12.22-16.04.49:507][113]LogSavePackage: Moving '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Saved/TopDownControllerD9B3960648EE98BD6D14AE9982F042A4.tmp' to '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/TopDownBP/Blueprints/TopDownController.uasset'
+[2020.12.22-16.04.49:518][113]AssetCheck: New page: Asset Save: TopDownController
+[2020.12.22-16.04.49:518][113]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/TopDownController.TopDownController
+[2020.12.22-16.04.50:484][138]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2020.12.22-16.04.50:528][138]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.12.22-16.07.04:749][391]LogSlate: Window 'TopDownController' being destroyed
+[2020.12.22-16.07.04:775][391]LogSlate: Window 'TopDownController' being destroyed
+[2020.12.22-16.07.04:786][391]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.12.22-16.07.04:786][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.22-16.07.13:087][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.22-16.07.19:582][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.12.22-16.07.23:169][ 31]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.22-16.07.23:277][ 31]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/TopDownBP/Blueprints/M_Cursor_Decal.M_Cursor_Decal
+[2020.12.22-16.07.24:071][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.12.22-16.07.24:115][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.12.22-16.07.24:137][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.12.22-16.07.35:268][462]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2020.12.22-16.07.35:304][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.12.22-16.07.37:114][462]LogSlate: Window 'Save Content' being destroyed
+[2020.12.22-16.07.37:161][462]LogSavePackage: Moving '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Saved/TopDownCharacter2500E2264E7E30E47AC999A856875875.tmp' to '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2020.12.22-16.07.37:183][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.12.22-16.07.37:214][462]LogSavePackage: Moving '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Saved/TopDownExampleMap00D651EB466FC19EAF8D34BE7922A74D.tmp' to '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.12.22-16.07.37:235][462]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.073
+[2020.12.22-16.07.37:258][463]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.22-16.07.37:258][463]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2020.12.22-16.07.37:258][463]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.12.22-16.08.07:725][599]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2020.12.22-16.08.59:934][833]BlueprintLog: New page: Compile TopDownCharacter
+[2020.12.22-16.08.59:996][833]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.12.22-16.09.02:162][868]LogSavePackage: Moving '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Saved/TopDownCharacter609467A9438D0A79EB310A9F67952193.tmp' to '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2020.12.22-16.09.02:174][868]AssetCheck: New page: Asset Save: TopDownCharacter
+[2020.12.22-16.09.02:174][868]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2020.12.22-16.09.03:489][898]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2020.12.22-16.09.03:531][898]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.12.22-16.09.05:310][898]LogSlate: Window 'Save Content' being destroyed
+[2020.12.22-16.09.05:355][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.12.22-16.09.05:386][898]LogSavePackage: Moving '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Saved/TopDownExampleMapD25E2ABA47C330E37A81B1BF2EF44A83.tmp' to '../../../../../../Users/hizi/Documents/Unreal Projects/MyProject9/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.12.22-16.09.05:403][898]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.072
+[2020.12.22-16.09.05:431][899]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2020.12.22-16.09.05:431][899]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.12.22-16.10.35:126][328]LogSlate: Window 'Save Asset As' being destroyed
+[2020.12.22-16.10.35:284][332]LogHttp: Warning: 00000230AB7A9D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA38177F2-4428-4D88-B1C7-85A344E1D885%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=95b2c98c472f308f08cc4fa89736314e%7C17cfe271faf84784b2e879d692b63b8d%7Cd02ec9d2-fb9d-404f-ba87-01f81ca0b743&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.12.22-16.10.35:284][332]LogHttp: Warning: 00000230AB7A9D00: request failed, libcurl error: 0 (No error)
+[2020.12.22-16.10.35:284][332]LogHttp: Warning: 00000230AB7A9D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x230bcdabeb0 [can pipeline])
+[2020.12.22-16.10.35:284][332]LogHttp: Warning: 00000230AB7A9D00: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2020.12.22-16.10.35:284][332]LogHttp: Warning: 00000230AB7A9D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.20.156.36) port 443 (#1))
+[2020.12.22-16.10.35:284][332]LogHttp: Warning: 00000230AB7A9D00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.12.22-16.10.35:284][332]LogHttp: Warning: 00000230AB7A9D00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.12.22-16.10.35:284][332]LogHttp: Warning: 00000230AB7A9D00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.12.22-16.10.35:284][332]LogHttp: Warning: 00000230AB7A9D00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.12.22-16.10.35:284][332]LogHttp: Warning: 00000230AB7A9D00: libcurl info message cache 7 (Closing connection 1)
+[2020.12.22-16.10.35:284][332]LogHttp: Warning: 00000230AB7A9D00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.12.22-16.10.35:285][332]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA38177F2-4428-4D88-B1C7-85A344E1D885%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=95b2c98c472f308f08cc4fa89736314e%7C17cfe271faf84784b2e879d692b63b8d%7Cd02ec9d2-fb9d-404f-ba87-01f81ca0b743&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.12.22-16.10.37:051][369]LogSlate: Window 'TopDownCharacter' being destroyed
+[2020.12.22-16.10.37:066][369]LogSlate: Window 'TopDownCharacter' being destroyed
+[2020.12.22-16.10.37:075][369]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.12.22-16.10.37:075][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.22-16.10.45:746][686]LogSlate: Window 'Save Level As' being destroyed
+[2020.12.22-16.10.48:288][727]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.12.22-16.10.55:656][187]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.12.22-16.11.25:372][624]LogSlate: Window 'FBX Export Options' being destroyed
+[2020.12.22-16.11.25:619][624]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.7.0
+
+
+[2020.12.22-16.13.40:911][991]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
